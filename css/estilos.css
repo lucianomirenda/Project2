@@ -3,3 +3,11 @@ body {
     font-family: "Arial";
     color: brown;
 }
+
+#thebestclase {
+    width: 300px;
+    height: 300px;
+    color: black;
+    background-color: aqua;
+    text-align: center;
+}
