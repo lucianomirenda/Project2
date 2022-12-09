@@ -10,4 +10,5 @@ El progreso es bastante **bueno**. Todo tiene sus cosas, pero va bien.
 - Seguimos por lo más complejo 
 - Buscamos nuevos desafios 
 - Siempre tratando de avanzar un poco más
-- Sigue tus sueños
+- Sigue tus sueños 
+- Tomalo con calma
