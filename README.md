@@ -12,3 +12,4 @@ El progreso es bastante **bueno**. Todo tiene sus cosas, pero va bien.
 - Siempre tratando de avanzar un poco más
 - Sigue tus sueños 
 - Tomalo con calma
+- Viva la vida
